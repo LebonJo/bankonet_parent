@@ -11,7 +11,7 @@ import dta.ihm.util.ScannerUtil;
 public class BankonetClientApp {
 
 	public static void main(String[] args) {
-		RestServerInfoHelper serverInfoHelper = new RestServerInfoHelper();
+		RestServerInfoYoloHelper serverInfoHelper = new RestServerInfoHelper();
 		RestServerInfo infos = serverInfoHelper.getRestServerInfo();
 		System.out.println(infos);
 		
