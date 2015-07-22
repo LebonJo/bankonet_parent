@@ -14,10 +14,10 @@
   			<file><exists>dev.txt</exists></file>
   		</activation>
   		<properties>
-  			<driver.propertie>com.mysql.jdbc.Driver</driver.propertie>
-			<url.propertie>jdbc:mysql:///banque_dev</url.propertie>
-			<username.propertie>root</username.propertie>
-			<password.propertie></password.propertie>
+  			<properties.driver>com.mysql.jdbc.Driver</properties.driver>
+			<properties.url>jdbc:mysql:///banque_dev</properties.url>
+			<properties.username>root</properties.username>
+			<properties.password></properties.password>
   		</properties>
   	</profile>
   	<profile>

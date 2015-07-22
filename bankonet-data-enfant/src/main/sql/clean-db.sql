@@ -1,1 +1,1 @@
-delete * from Employe;
+truncate table employe;

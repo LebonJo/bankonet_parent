@@ -8,6 +8,7 @@
 	<modules>
 		<module>bankonet-rest-enfant</module>
 		<module>bankonet-client-enfant</module>
+		<module>bankonet-data-enfant</module>
 	</modules>
 
 	<properties>
